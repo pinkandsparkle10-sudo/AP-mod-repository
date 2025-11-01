@@ -1,0 +1,10 @@
+﻿
+
+.idea/
+.vs/
+.lib/
+obj/
+lib/
+.git/
+bin/
+Folder.DotSettings.user
