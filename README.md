@@ -37,7 +37,7 @@ starting seeds
 -Truly random (Makes starting seeds fully random, chapter 1 requires some cardnal directions)
 
 key items
--GArden
+-Garden
 -Alchemy Machine
 -potion bases
 
