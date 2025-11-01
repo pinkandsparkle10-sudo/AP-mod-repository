@@ -1,0 +1,41 @@
+set goal chapter
+
+buy AP items in merchants
+-AP summon merchant item that summons a merchant (can't find merchants normally)
+-Able to make it with the alchemy machine once you get sent the merchant item
+
+Custom customer pool.
+-Text is like ____ needs this potion to get this item!!
+-each chapter has its own pool
+-If skipped, add back to the pool
+-once pool is empty, normal customers
+-does not give money
+
+Potions in logic
+-Items will unlock potion spots
+Default:
+-each chapter requires you to be sent the potion items for it
+Option: Shuffle potions within chapters
+-1 to 3 shuffled, 4-6 shuffled, 7-10 shuffled
+
+radius lock out
+ -item to increase the radius
+ -Fyre doesn't like it
+
+XP sanity
+-Big XP spots are checks
+
+Seeds
+Vanilla: not in multiworld (would need progressive chapters)
+Ap Seeds: random starting seeds
+-NWSE  Some combination of seeds to be able to go all directions
+Infinite: has infinite ingredients
+
+key items
+-GArden
+-Alchemy Machine
+-potion bases
+
+sanity
+-remove water pouring (needs for chpt3)
+-remove grind stone (not needed, AP required for chpt3)
