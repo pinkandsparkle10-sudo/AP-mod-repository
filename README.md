@@ -22,6 +22,10 @@ radius lock out
  -item to increase the radius
  -Fyre doesn't like it
 
+Skills:
+-Each skill is locked behind an item.
+-Level, and skill points are untouched
+
 XP sanity
 -Big XP spots are checks
 
