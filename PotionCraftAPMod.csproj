@@ -32,74 +32,17 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Reference Include="PotionCraft.AchievementsSystem">
-      <HintPath>lib\PotionCraft.AchievementsSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.AchievementsSystem.Steam">
-      <HintPath>lib\PotionCraft.AchievementsSystem.Steam.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.BuildModeColliderSnapSystem">
-      <HintPath>lib\PotionCraft.BuildModeColliderSnapSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom050To051">
-      <HintPath>lib\PotionCraft.ConverterFrom050To051.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom051To052">
-      <HintPath>lib\PotionCraft.ConverterFrom051To052.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom052To100">
-      <HintPath>lib\PotionCraft.ConverterFrom052To100.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom100To101">
-      <HintPath>lib\PotionCraft.ConverterFrom100To101.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom101To102">
-      <HintPath>lib\PotionCraft.ConverterFrom101To102.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom102To103">
-      <HintPath>lib\PotionCraft.ConverterFrom102To103.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom105To110">
-      <HintPath>lib\PotionCraft.ConverterFrom105To110.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom110To200">
-      <HintPath>lib\PotionCraft.ConverterFrom110To200.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom200To201">
-      <HintPath>lib\PotionCraft.ConverterFrom200To201.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ConverterFrom201To202">
-      <HintPath>lib\PotionCraft.ConverterFrom201To202.dll</HintPath>
-    </Reference>
     <Reference Include="PotionCraft.Core">
       <HintPath>lib\PotionCraft.Core.dll</HintPath>
     </Reference>
     <Reference Include="PotionCraft.DataBaseSystem">
       <HintPath>lib\PotionCraft.DataBaseSystem.dll</HintPath>
     </Reference>
-    <Reference Include="PotionCraft.DebugInfoCollectorSystem">
-      <HintPath>lib\PotionCraft.DebugInfoCollectorSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.ErrorCatcher">
-      <HintPath>lib\PotionCraft.ErrorCatcher.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.GamepadNavigation">
-      <HintPath>lib\PotionCraft.GamepadNavigation.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.GamerTagSystem.Steam">
-      <HintPath>lib\PotionCraft.GamerTagSystem.Steam.dll</HintPath>
-    </Reference>
     <Reference Include="PotionCraft.InputSystem">
       <HintPath>lib\PotionCraft.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="PotionCraft.ManagerSystem">
       <HintPath>lib\PotionCraft.ManagerSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.PrefabInstanceOverrideGuard">
-      <HintPath>lib\PotionCraft.PrefabInstanceOverrideGuard.dll</HintPath>
-    </Reference>
-    <Reference Include="PotionCraft.QRCodeSystem">
-      <HintPath>lib\PotionCraft.QRCodeSystem.dll</HintPath>
     </Reference>
     <Reference Include="PotionCraft.SceneLoader">
       <HintPath>lib\PotionCraft.SceneLoader.dll</HintPath>
