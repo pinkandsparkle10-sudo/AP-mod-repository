@@ -44,3 +44,8 @@ key items
 sanity
 -remove water pouring (needs for chpt3)
 -remove grind stone (not needed, AP required for chpt3)
+
+Deathlink
+-if potion dies, send
+-If recieved, kill potion
+-maybe rejuvination stops a deathlink
