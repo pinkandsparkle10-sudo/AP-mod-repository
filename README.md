@@ -31,6 +31,11 @@ Ap Seeds: random starting seeds
 -NWSE  Some combination of seeds to be able to go all directions
 Infinite: has infinite ingredients
 
+starting seeds
+-Vanilla
+-Random Cardnal
+-Truly random (Makes starting seeds fully random, chapter 1 requires some cardnal directions)
+
 key items
 -GArden
 -Alchemy Machine
